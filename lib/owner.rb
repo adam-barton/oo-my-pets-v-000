@@ -65,13 +65,6 @@ class Owner
       end
       animal.clear
     end
-
-    # @pets[:fishes].each {|fish| fish.mood = "nervous"}
-    # @pets[:fishes].clear
-    # @pets[:cats].each {|cat| cat.mood = "nervous"}
-    # @pets[:cats].clear
-    # @pets[:dogs].each {|dog| dog.mood = "nervous"}
-    # @pets[:dogs].clear
   end
 
   def list_pets
